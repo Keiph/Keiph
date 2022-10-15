@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on Projects  
   
 
-- 🌱 I’m currently learning Angular & Flutter (Dart)  
+- 🌱 I’m currently learning Dev Ops and more
   
 
 - ❓ Ask me about anything related to history and geopolitics  
   
 
-- ⚡ Fun fact: 99% of the time, I don't know what I am coding. and 100% of the time I don't understand your code  
+- ⚡ Fun fact: There's no fact
   
 
 <br/>  
