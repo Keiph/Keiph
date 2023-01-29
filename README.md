@@ -81,7 +81,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Keiph&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/> 
+
+http://127.0.0.1:9000/api/project_badges/measure?project=RestaurantReview%3ARestaurantReview&metric=alert_status
 
 
 
