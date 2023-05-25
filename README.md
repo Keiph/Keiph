@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Projects  
   
 
-- 🌱 I’m currently learning Dev Ops and more
+- 🌱 I’m currently idling 
   
 
 - ❓ Ask me about anything related to history and geopolitics  
